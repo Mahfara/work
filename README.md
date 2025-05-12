@@ -19,3 +19,6 @@
 
 - [**Industrial Internet of Things Enabled Technologies, Challenges, and Future Directions**](http://dx.doi.org/10.1016/j.compeleceng.2023.108847)  
   *Computers & Electrical Engineering*
+-Thesis (Unpublished)  
+  *Predicting ARDS in COVID-19 Patients using Machine Learning*  
+  *Raw file not shared publicly — available upon request.*
